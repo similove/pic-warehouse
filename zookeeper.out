@@ -1,0 +1,65 @@
+2021-01-15 17:28:56,281 [myid:] - INFO  [main:QuorumPeerConfig@136] - Reading configuration from: /Users/zjw-pc/Software/zookeeper-3.4.12/bin/../conf/zoo.cfg
+2021-01-15 17:28:56,287 [myid:] - INFO  [main:DatadirCleanupManager@78] - autopurge.snapRetainCount set to 3
+2021-01-15 17:28:56,287 [myid:] - INFO  [main:DatadirCleanupManager@79] - autopurge.purgeInterval set to 0
+2021-01-15 17:28:56,287 [myid:] - INFO  [main:DatadirCleanupManager@101] - Purge task is not scheduled.
+2021-01-15 17:28:56,287 [myid:] - WARN  [main:QuorumPeerMain@116] - Either no config or no quorum defined in config, running  in standalone mode
+2021-01-15 17:28:56,298 [myid:] - INFO  [main:QuorumPeerConfig@136] - Reading configuration from: /Users/zjw-pc/Software/zookeeper-3.4.12/bin/../conf/zoo.cfg
+2021-01-15 17:28:56,298 [myid:] - INFO  [main:ZooKeeperServerMain@98] - Starting server
+2021-01-15 17:28:56,310 [myid:] - INFO  [main:Environment@100] - Server environment:zookeeper.version=3.4.12-e5259e437540f349646870ea94dc2658c4e44b3b, built on 03/27/2018 03:55 GMT
+2021-01-15 17:28:56,310 [myid:] - INFO  [main:Environment@100] - Server environment:host.name=localhost
+2021-01-15 17:28:56,310 [myid:] - INFO  [main:Environment@100] - Server environment:java.version=1.8.0_261
+2021-01-15 17:28:56,310 [myid:] - INFO  [main:Environment@100] - Server environment:java.vendor=Oracle Corporation
+2021-01-15 17:28:56,311 [myid:] - INFO  [main:Environment@100] - Server environment:java.home=/Library/Java/JavaVirtualMachines/jdk1.8.0_261.jdk/Contents/Home/jre
+2021-01-15 17:28:56,311 [myid:] - INFO  [main:Environment@100] - Server environment:java.class.path=/Users/zjw-pc/Software/zookeeper-3.4.12/bin/../build/classes:/Users/zjw-pc/Software/zookeeper-3.4.12/bin/../build/lib/*.jar:/Users/zjw-pc/Software/zookeeper-3.4.12/bin/../lib/slf4j-log4j12-1.7.25.jar:/Users/zjw-pc/Software/zookeeper-3.4.12/bin/../lib/slf4j-api-1.7.25.jar:/Users/zjw-pc/Software/zookeeper-3.4.12/bin/../lib/netty-3.10.6.Final.jar:/Users/zjw-pc/Software/zookeeper-3.4.12/bin/../lib/log4j-1.2.17.jar:/Users/zjw-pc/Software/zookeeper-3.4.12/bin/../lib/jline-0.9.94.jar:/Users/zjw-pc/Software/zookeeper-3.4.12/bin/../lib/audience-annotations-0.5.0.jar:/Users/zjw-pc/Software/zookeeper-3.4.12/bin/../zookeeper-3.4.12.jar:/Users/zjw-pc/Software/zookeeper-3.4.12/bin/../src/java/lib/*.jar:/Users/zjw-pc/Software/zookeeper-3.4.12/bin/../conf:
+2021-01-15 17:28:56,311 [myid:] - INFO  [main:Environment@100] - Server environment:java.library.path=/Users/zjw-pc/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.
+2021-01-15 17:28:56,311 [myid:] - INFO  [main:Environment@100] - Server environment:java.io.tmpdir=/var/folders/hc/4q1xx9sx5h1g2kr_skpn1rn40000gn/T/
+2021-01-15 17:28:56,311 [myid:] - INFO  [main:Environment@100] - Server environment:java.compiler=<NA>
+2021-01-15 17:28:56,312 [myid:] - INFO  [main:Environment@100] - Server environment:os.name=Mac OS X
+2021-01-15 17:28:56,312 [myid:] - INFO  [main:Environment@100] - Server environment:os.arch=x86_64
+2021-01-15 17:28:56,312 [myid:] - INFO  [main:Environment@100] - Server environment:os.version=10.13.6
+2021-01-15 17:28:56,312 [myid:] - INFO  [main:Environment@100] - Server environment:user.name=zjw-pc
+2021-01-15 17:28:56,312 [myid:] - INFO  [main:Environment@100] - Server environment:user.home=/Users/zjw-pc
+2021-01-15 17:28:56,312 [myid:] - INFO  [main:Environment@100] - Server environment:user.dir=/Users/zjw-pc/workspace/pic-warehouse
+2021-01-15 17:28:56,324 [myid:] - INFO  [main:ZooKeeperServer@835] - tickTime set to 2000
+2021-01-15 17:28:56,324 [myid:] - INFO  [main:ZooKeeperServer@844] - minSessionTimeout set to -1
+2021-01-15 17:28:56,325 [myid:] - INFO  [main:ZooKeeperServer@853] - maxSessionTimeout set to -1
+2021-01-15 17:28:56,336 [myid:] - INFO  [main:ServerCnxnFactory@117] - Using org.apache.zookeeper.server.NIOServerCnxnFactory as server connection factory
+2021-01-15 17:28:56,347 [myid:] - INFO  [main:NIOServerCnxnFactory@89] - binding to port 0.0.0.0/0.0.0.0:2181
+2021-01-15 17:28:56,490 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxnFactory@215] - Accepted socket connection from /127.0.0.1:57938
+2021-01-15 17:28:56,496 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:ZooKeeperServer@941] - Client attempting to renew session 0x100001bf8160011 at /127.0.0.1:57938
+2021-01-15 17:28:56,498 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:ZooKeeperServer@686] - Invalid session 0x100001bf8160011 for client /127.0.0.1:57938, probably expired
+2021-01-15 17:28:56,500 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@1040] - Closed socket connection for client /127.0.0.1:57938 which had sessionid 0x100001bf8160011
+2021-01-15 17:28:56,508 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxnFactory@215] - Accepted socket connection from /0:0:0:0:0:0:0:1:57939
+2021-01-15 17:28:56,511 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:ZooKeeperServer@948] - Client attempting to establish new session at /0:0:0:0:0:0:0:1:57939
+2021-01-15 17:28:56,512 [myid:] - INFO  [SyncThread:0:FileTxnLog@213] - Creating new log file: log.48d
+2021-01-15 17:28:56,518 [myid:] - INFO  [SyncThread:0:ZooKeeperServer@693] - Established session 0x100019ede390000 with negotiated timeout 6000 for client /0:0:0:0:0:0:0:1:57939
+2021-01-15 17:28:56,539 [myid:] - INFO  [ProcessThread(sid:0 cport:2181)::PrepRequestProcessor@653] - Got user-level KeeperException when processing sessionid:0x100019ede390000 type:create cxid:0x3 zxid:0x48e txntype:-1 reqpath:n/a Error Path:/brokers Error:KeeperErrorCode = NodeExists for /brokers
+2021-01-15 17:28:56,539 [myid:] - INFO  [ProcessThread(sid:0 cport:2181)::PrepRequestProcessor@653] - Got user-level KeeperException when processing sessionid:0x100019ede390000 type:create cxid:0x4 zxid:0x48f txntype:-1 reqpath:n/a Error Path:/brokers/ids Error:KeeperErrorCode = NodeExists for /brokers/ids
+2021-01-15 17:28:56,539 [myid:] - INFO  [ProcessThread(sid:0 cport:2181)::PrepRequestProcessor@653] - Got user-level KeeperException when processing sessionid:0x100019ede390000 type:create cxid:0x5 zxid:0x490 txntype:-1 reqpath:n/a Error Path:/brokers/ids/3 Error:KeeperErrorCode = NodeExists for /brokers/ids/3
+2021-01-15 17:28:56,893 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxnFactory@215] - Accepted socket connection from /0:0:0:0:0:0:0:1:57940
+2021-01-15 17:28:56,894 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:ZooKeeperServer@941] - Client attempting to renew session 0x100001bf816000f at /0:0:0:0:0:0:0:1:57940
+2021-01-15 17:28:56,894 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:ZooKeeperServer@686] - Invalid session 0x100001bf816000f for client /0:0:0:0:0:0:0:1:57940, probably expired
+2021-01-15 17:28:56,895 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@1040] - Closed socket connection for client /0:0:0:0:0:0:0:1:57940 which had sessionid 0x100001bf816000f
+2021-01-15 17:28:56,906 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxnFactory@215] - Accepted socket connection from /0:0:0:0:0:0:0:1:57941
+2021-01-15 17:28:56,907 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:ZooKeeperServer@948] - Client attempting to establish new session at /0:0:0:0:0:0:0:1:57941
+2021-01-15 17:28:56,908 [myid:] - INFO  [SyncThread:0:ZooKeeperServer@693] - Established session 0x100019ede390001 with negotiated timeout 6000 for client /0:0:0:0:0:0:0:1:57941
+2021-01-15 17:28:56,913 [myid:] - INFO  [ProcessThread(sid:0 cport:2181)::PrepRequestProcessor@653] - Got user-level KeeperException when processing sessionid:0x100019ede390001 type:create cxid:0x3 zxid:0x492 txntype:-1 reqpath:n/a Error Path:/brokers Error:KeeperErrorCode = NodeExists for /brokers
+2021-01-15 17:28:56,914 [myid:] - INFO  [ProcessThread(sid:0 cport:2181)::PrepRequestProcessor@653] - Got user-level KeeperException when processing sessionid:0x100019ede390001 type:create cxid:0x4 zxid:0x493 txntype:-1 reqpath:n/a Error Path:/brokers/ids Error:KeeperErrorCode = NodeExists for /brokers/ids
+2021-01-15 17:28:56,914 [myid:] - INFO  [ProcessThread(sid:0 cport:2181)::PrepRequestProcessor@653] - Got user-level KeeperException when processing sessionid:0x100019ede390001 type:create cxid:0x5 zxid:0x494 txntype:-1 reqpath:n/a Error Path:/brokers/ids/2 Error:KeeperErrorCode = NodeExists for /brokers/ids/2
+2021-01-15 17:28:57,445 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxnFactory@215] - Accepted socket connection from /0:0:0:0:0:0:0:1:57942
+2021-01-15 17:28:57,448 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:ZooKeeperServer@941] - Client attempting to renew session 0x100001bf8160010 at /0:0:0:0:0:0:0:1:57942
+2021-01-15 17:28:57,449 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:ZooKeeperServer@686] - Invalid session 0x100001bf8160010 for client /0:0:0:0:0:0:0:1:57942, probably expired
+2021-01-15 17:28:57,449 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxn@1040] - Closed socket connection for client /0:0:0:0:0:0:0:1:57942 which had sessionid 0x100001bf8160010
+2021-01-15 17:28:57,458 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:NIOServerCnxnFactory@215] - Accepted socket connection from /127.0.0.1:57943
+2021-01-15 17:28:57,459 [myid:] - INFO  [NIOServerCxn.Factory:0.0.0.0/0.0.0.0:2181:ZooKeeperServer@948] - Client attempting to establish new session at /127.0.0.1:57943
+2021-01-15 17:28:57,460 [myid:] - INFO  [SyncThread:0:ZooKeeperServer@693] - Established session 0x100019ede390002 with negotiated timeout 6000 for client /127.0.0.1:57943
+2021-01-15 17:28:57,466 [myid:] - INFO  [ProcessThread(sid:0 cport:2181)::PrepRequestProcessor@653] - Got user-level KeeperException when processing sessionid:0x100019ede390002 type:create cxid:0x3 zxid:0x496 txntype:-1 reqpath:n/a Error Path:/brokers Error:KeeperErrorCode = NodeExists for /brokers
+2021-01-15 17:28:57,466 [myid:] - INFO  [ProcessThread(sid:0 cport:2181)::PrepRequestProcessor@653] - Got user-level KeeperException when processing sessionid:0x100019ede390002 type:create cxid:0x4 zxid:0x497 txntype:-1 reqpath:n/a Error Path:/brokers/ids Error:KeeperErrorCode = NodeExists for /brokers/ids
+2021-01-15 17:28:57,467 [myid:] - INFO  [ProcessThread(sid:0 cport:2181)::PrepRequestProcessor@653] - Got user-level KeeperException when processing sessionid:0x100019ede390002 type:create cxid:0x5 zxid:0x498 txntype:-1 reqpath:n/a Error Path:/brokers/ids/1 Error:KeeperErrorCode = NodeExists for /brokers/ids/1
+2021-01-15 17:29:03,612 [myid:] - INFO  [SessionTracker:ZooKeeperServer@354] - Expiring session 0x100036978a40001, timeout of 6000ms exceeded
+2021-01-15 17:29:03,612 [myid:] - INFO  [SessionTracker:ZooKeeperServer@354] - Expiring session 0x100036978a40002, timeout of 6000ms exceeded
+2021-01-15 17:29:03,613 [myid:] - INFO  [SessionTracker:ZooKeeperServer@354] - Expiring session 0x100036978a40000, timeout of 6000ms exceeded
+2021-01-15 17:29:03,613 [myid:] - INFO  [ProcessThread(sid:0 cport:2181)::PrepRequestProcessor@487] - Processed session termination for sessionid: 0x100036978a40001
+2021-01-15 17:29:03,613 [myid:] - INFO  [ProcessThread(sid:0 cport:2181)::PrepRequestProcessor@487] - Processed session termination for sessionid: 0x100036978a40002
+2021-01-15 17:29:03,613 [myid:] - INFO  [ProcessThread(sid:0 cport:2181)::PrepRequestProcessor@487] - Processed session termination for sessionid: 0x100036978a40000
+2021-01-15 17:29:03,896 [myid:] - INFO  [ProcessThread(sid:0 cport:2181)::PrepRequestProcessor@653] - Got user-level KeeperException when processing sessionid:0x100019ede390001 type:delete cxid:0xda zxid:0x49e txntype:-1 reqpath:n/a Error Path:/admin/preferred_replica_election Error:KeeperErrorCode = NoNode for /admin/preferred_replica_election
